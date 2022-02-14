@@ -1,14 +1,6 @@
 # 选做HW1
 
-* 数据集使用`LAMOST_APOGEE `文件夹中的`flux_end_train_10_20.npy`  和`label_ap_la_10_20.npy`(需要放在同一个文件夹目录下如下图所示)
-
-![image-20211027144536887](C:\Users\PC_SKY_WYT\AppData\Roaming\Typora\typora-user-images\image-20211027144536887.png)
-
-
-
-![image-20211027144704960](C:\Users\PC_SKY_WYT\AppData\Roaming\Typora\typora-user-images\image-20211027144704960.png)
-
-
+* 数据集使用`LAMOST_APOGEE `文件夹中的`flux_end_train_10_20.npy`  和`label_ap_la_10_20.npy`(文件太大，没有上传)
 
 * 不要在中文路径下编译运行程序
 
