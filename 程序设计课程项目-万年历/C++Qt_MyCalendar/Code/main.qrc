@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bg_calendar.png</file>
+        <file>image/calendar.ico</file>
+        <file>image/left.ico</file>
+        <file>image/right.ico</file>
+        <file>image/today.ico</file>
+        <file>image/peking_university.png</file>
+    </qresource>
+</RCC>
